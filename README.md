@@ -19,12 +19,22 @@
 ## Observação 
 
 ### Executar os seguintes comandos para rodar a aplicação:
+ 
+```sh
+composer install 
+``` 
+Vai instalar as dependências do Laravel
 
-### composer install - Vai instalar as dependências do Laravel
+```sh
+  php artisan migrate 
+```
+Vai migrar os dados da tabela OBS: não esquecer de mudar o nome usuário e do banco no arquivo (.env).
 
-### php artisan migrate - Migrar os dados da tabela ( Não esquecer de mudar o nome usuário e do banco no arquivo .env)
+### Após a execução desses comandos, só iniciar o servidor com:
 
-### Após a execução desses comandos, só iniciar o servidor com: php artisan serve
+```sh
+ php artisan serve
+```
 
 
 
