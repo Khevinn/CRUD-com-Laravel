@@ -9,7 +9,7 @@
 
 ## Sobre
 
-#### Um CRUD ( Create, read,update e delete) simples, com todas as funções atribuídas funcionando.
+#### Um CRUD ( Create, read, update e delete) simples, com todas as funções atribuídas funcionando.
 
 #### Nesse CRUD é possível adicionar nomes de "heroes", uma breve descrição sobre eles, atualizar esses dados inseridos e também deletá-los.
 
@@ -28,7 +28,7 @@ Vai instalar as dependências do Laravel
 ```sh
   php artisan migrate 
 ```
-Vai migrar os dados da tabela OBS: não esquecer de mudar o nome usuário e do banco no arquivo (.env).
+Vai migrar os dados da tabela. OBS: atualizar os dados do banco no arquivo .env.example.
 
 ### Após a execução desses comandos, só iniciar o servidor com:
 
