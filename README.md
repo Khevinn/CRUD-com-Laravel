@@ -9,11 +9,11 @@
 
 ## Sobre
 
-### Um CRUD ( Create, read,update e delete) simples, com todas as funções atribuídas funcionando.
+#### Um CRUD ( Create, read,update e delete) simples, com todas as funções atribuídas funcionando.
 
-### Nesse CRUD é possível adicionar nomes de "heroes", uma breve descrição sobre eles, atualizar esses dados inseridos e também deletá-los.
+#### Nesse CRUD é possível adicionar nomes de "heroes", uma breve descrição sobre eles, atualizar esses dados inseridos e também deletá-los.
 
-### A aplicação tem autenticação de usuário e restringe o acesso dos usuários logados em alguns recursos.
+#### A aplicação tem autenticação de usuário e restringe o acesso dos usuários logados em alguns recursos.
 
 
 ## Observação 
